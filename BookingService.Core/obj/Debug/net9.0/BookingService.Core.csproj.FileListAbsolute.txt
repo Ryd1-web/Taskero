@@ -9,3 +9,4 @@ C:\Users\HP\source\repos\BookingApp\BookingService.Core\obj\Debug\net9.0\Booking
 C:\Users\HP\source\repos\BookingApp\BookingService.Core\obj\Debug\net9.0\refint\BookingService.Core.dll
 C:\Users\HP\source\repos\BookingApp\BookingService.Core\obj\Debug\net9.0\BookingService.Core.pdb
 C:\Users\HP\source\repos\BookingApp\BookingService.Core\obj\Debug\net9.0\ref\BookingService.Core.dll
+c:\Users\HP\source\repos\BookingApp\BookingService.Core\obj\Debug\net9.0\BookingService.Core.sourcelink.json

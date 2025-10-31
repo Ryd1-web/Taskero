@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W15eg1+39sI=",
+  "dgSpecHash": "O9RdckQcmaE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Infrastructure\\BookingService.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Infrastructure\\BookingService.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

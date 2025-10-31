@@ -17,3 +17,4 @@ C:\Users\HP\source\repos\BookingApp\BookingService.Infrastructure\obj\Debug\net9
 C:\Users\HP\source\repos\BookingApp\BookingService.Infrastructure\obj\Debug\net9.0\BookingService.Infrastructure.pdb
 C:\Users\HP\source\repos\BookingApp\BookingService.Infrastructure\obj\Debug\net9.0\BookingService.Infrastructure.genruntimeconfig.cache
 C:\Users\HP\source\repos\BookingApp\BookingService.Infrastructure\obj\Debug\net9.0\ref\BookingService.Infrastructure.dll
+c:\Users\HP\source\repos\BookingApp\BookingService.Infrastructure\obj\Debug\net9.0\BookingService.Infrastructure.sourcelink.json
