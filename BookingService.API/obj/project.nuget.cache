@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hqy/1Mfd4X4=",
+  "dgSpecHash": "Pj8Hqs9SipE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.API\\BookingService.API.csproj",
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.API\\BookingService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

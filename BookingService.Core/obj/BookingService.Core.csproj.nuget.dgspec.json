@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj": {}
   },
   "projects": {
-    "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj": {
+    "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj",
         "projectName": "BookingService.Core",
-        "projectPath": "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\BookingService.Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\BookingApp\\BookingService.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

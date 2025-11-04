@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using BookingService.Infrastructure.Context;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
